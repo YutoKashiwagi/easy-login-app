@@ -18,6 +18,7 @@ module.exports = {
       'auth'
     ]
   },
+  plugins: ['~/plugins/logger'],
   /*
   ** Customize the progress bar color
   */
